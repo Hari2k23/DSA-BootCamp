@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hari2k23/DSA-BootCamp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Hari2k23/DSA-BootCamp/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Hari2k23/DSA-BootCamp/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0861-flipping-an-image](https://github.com/Hari2k23/DSA-BootCamp/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Hari2k23/DSA-BootCamp/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/Hari2k23/DSA-BootCamp/tree/master/1185-find-in-mountain-array) |
 ## Binary Search
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hari2k23/DSA-BootCamp/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Hari2k23/DSA-BootCamp/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Hari2k23/DSA-BootCamp/tree/master/0645-set-mismatch) |
+| [0861-flipping-an-image](https://github.com/Hari2k23/DSA-BootCamp/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Hari2k23/DSA-BootCamp/tree/master/0287-find-the-duplicate-number) |
+| [0861-flipping-an-image](https://github.com/Hari2k23/DSA-BootCamp/tree/master/0861-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Hari2k23/DSA-BootCamp/tree/master/0861-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Hari2k23/DSA-BootCamp/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
