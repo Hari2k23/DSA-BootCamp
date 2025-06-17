@@ -20,8 +20,6 @@ public class SinglyLinkedList{
         this.size = 0;
     }
 
-
-
     public void recursiveInsertion(int value, int position){
         head = recursiveInsertion(value, position, head);
     }
