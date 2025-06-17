@@ -14,6 +14,8 @@ public class Main {
         list.display();
         list.deleteAtPosition(list.getSize() - 1);
         list.display();
+        list.recursiveInsertion(88, 2);
+        list.display();
         System.out.println();
 
         DoublyLinkedList dlist = new DoublyLinkedList();

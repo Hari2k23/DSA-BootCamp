@@ -20,6 +20,23 @@ public class SinglyLinkedList{
         this.size = 0;
     }
 
+
+
+    public void recursiveInsertion(int value, int position){
+        head = recursiveInsertion(value, position, head);
+    }
+
+    private Node recursiveInsertion(int value, int position, Node current){
+        if(position == 0){
+            Node newNode = new Node(value, current);
+            size++;
+            return newNode;
+        }
+
+        current.next = recursiveInsertion(value, position - 1, current.next);
+        return current;
+    }
+
     public void insertAtFirst(int value){
         Node newNode = new Node(value);
 
