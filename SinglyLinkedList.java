@@ -148,6 +148,18 @@ public class SinglyLinkedList{
         return val;
     }
 
+    public void reverse(Node current){
+        if(current == tail){
+            head = tail;
+            return;
+        }
+
+        reverse(current.next);
+        tail.next = current;
+        tail = current;
+        tail.next = null;
+    }
+
     public Node getNode(int position){
         Node temp = head;
         for(int i = 0; i < position; i++) temp = temp.next;
