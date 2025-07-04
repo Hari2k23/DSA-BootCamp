@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Hari2k23/DSA-BootCamp/tree/master/0268-missing-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Hari2k23/DSA-BootCamp/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Hari2k23/DSA-BootCamp/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Hari2k23/DSA-BootCamp/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Hari2k23/DSA-BootCamp/tree/master/0861-flipping-an-image) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Hari2k23/DSA-BootCamp/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
